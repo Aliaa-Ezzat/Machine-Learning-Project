@@ -65,35 +65,7 @@
 | **Matplotlib** | Data visualization |
 | **Seaborn** | Statistical visualizations |
 
----
 
-## 🚀 **Installation**
-
-### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Aliaa-Ezzat/Machine-Learning-Project.git
-cd Machine-Learning-Project
-## 👩‍💻 **Author**
 
-<div align="center">
-
-### **Aliaa Ezzat**
-
-🎓 AI Student at Menoufia University  
-📊 Data Science & Analytics Enthusiast  
-🎨 Painting & Reading in free time  
-💻 Passionate about AI, Data Science, and Building Things  
-🌱 Always learning, always growing  
-🚀 Building projects that combine AI and creativity  
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aliaa-Ezzat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliaa-ezzat-37173b248/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliaaezzat2050@gmail.com)
-
-</div>
-## ⭐ Show Your Support
-
-If you found this project helpful, please give it a ⭐ on GitHub!
-
-[![Star on GitHub](https://img.shields.io/github/stars/Aliaa-Ezzat/Machine-Learning-Project?style=social)](https://github.com/Aliaa-Ezzat/Machine-Learning-Project/stargazers)
-[![Follow on GitHub](https://img.shields.io/github/followers/Aliaa-Ezzat?style=social)](https://github.com/Aliaa-Ezzat)
+💻 Passionate about AI, Da
