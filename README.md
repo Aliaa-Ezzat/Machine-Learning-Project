@@ -65,7 +65,10 @@
 | **Matplotlib** | Data visualization |
 | **Seaborn** | Statistical visualizations |
 
+## ⭐ Show Your Support
 
+If you found this project helpful, please give it a ⭐ on GitHub!
+
+[![Star on GitHub](https://img.shields.io/github/stars/Aliaa-Ezzat/Machine-Learning-Project?style=social)](https://github.com/Aliaa-Ezzat/Machine-Learning-Project/stargazers)
+[![Follow on GitHub](https://img.shields.io/github/followers/Aliaa-Ezzat?style=social)](https://github.com/Aliaa-Ezzat)
 ```bash
-
-💻 Passionate about AI, Da
