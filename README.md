@@ -23,13 +23,6 @@
 
 ---
 
-## 📸 **Screenshot**
-
-<div align="center">
-  <img src="screenshot.png" alt="ML GUI Screenshot" width="80%"/>
-</div>
-
----
 
 ## ✨ **Features**
 
